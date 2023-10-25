@@ -2,6 +2,8 @@
 
 Welcome to my SQL Functions and Scripts Repository. This repository is a showcase of my SQL abilities, including functions, views, stored procedures, and more. It's designed to provide a clear overview of the SQL solutions I've developed.
 
+Most of the projects created within this repository were created/altered using Azure SQL Database & the sample data provided from LTSales database from Microsoft.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
